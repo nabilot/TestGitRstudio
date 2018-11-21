@@ -1,2 +1,2 @@
 mtcars
-plot(mtcars$mpg,mtcars$wt)
+plot(mtcars$hp,mtcars$wt)
